@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Viktoria Zykova 👋
 
-<!--
-**ViktoriaFit/ViktoriaFit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Python / AI Developer** (remote, Baku, Azerbaijan)
 
-Here are some ideas to get you started:
+I build AI-powered automation tools, Telegram bots, REST APIs, and full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages:** Python 3.12, SQL, JavaScript (Apps Script), HTML, CSS
+- **Frameworks:** FastAPI, Uvicorn
+- **AI/ML:** Groq API, OpenAI API, prompt engineering, LangChain (basics), pgvector
+- **Databases:** PostgreSQL (Neon), SQLite
+- **Tools:** Git, GitHub, Docker, Render
+
+## 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+| :--- | :--- | :--- |
+| [**Fitness CRM**](https://github.com/ViktoriaFit/fitness-crm) | Full-stack app for fitness trainers (FastAPI + PostgreSQL) | [Live](https://fitness-crm-sknl.onrender.com) |
+| [**Jobs API**](https://github.com/ViktoriaFit/jobs-api) | REST API serving job vacancies (FastAPI + PostgreSQL + Docker) | — |
+| [**AI Telegram Bot**](https://github.com/ViktoriaFit/ai-telegram-bot) | Bot with Groq AI, memory, roles, statistics | — |
+| [**News Parser**](https://github.com/ViktoriaFit/news-parsers) | 5 RSS sources + AI summaries + Telegram delivery | — |
+| [**Email AI Sorter**](https://github.com/ViktoriaFit/email-ai-sorter) | Gmail IMAP + AI categorization + draft replies | — |
+
+## 📫 How to reach me
+
+- Email: msfitness@ukr.net
+- WhatsApp: +994 50 446 6921
+- Fiverr: [viktoriiafit](https://www.fiverr.com/viktoriafit)
