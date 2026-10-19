@@ -8,7 +8,7 @@ I build AI-powered automation tools, Telegram bots, REST APIs, and full-stack we
 
 - **Languages:** Python 3.12, SQL, JavaScript (Apps Script), HTML, CSS
 - **Frameworks:** FastAPI, Uvicorn
-- **AI/ML:** Groq API, OpenAI API, prompt engineering, LangChain (basics), pgvector
+- **AI/ML:** Groq API, OpenAI API, prompt engineering, LangChain (basics), pgvector, Sentence Transformers
 - **Databases:** PostgreSQL (Neon), SQLite
 - **Tools:** Git, GitHub, Docker, Render
 
@@ -16,11 +16,11 @@ I build AI-powered automation tools, Telegram bots, REST APIs, and full-stack we
 
 | Project | Description | Live Demo |
 | :--- | :--- | :--- |
+| [**Fitness AI CRM**](https://github.com/ViktoriaFit/fitness-ai-crm) | Full-stack CRM + AI Semantic Search (FastAPI + PostgreSQL + pgvector) | [Live](https://fitness-crm-sknl.onrender.com) |
 | [**Fitness CRM**](https://github.com/ViktoriaFit/fitness-crm) | Full-stack app for fitness trainers (FastAPI + PostgreSQL) | [Live](https://fitness-crm-sknl.onrender.com) |
 | [**Jobs API**](https://github.com/ViktoriaFit/jobs-api) | REST API serving job vacancies (FastAPI + PostgreSQL + Docker) | — |
 | [**AI Telegram Bot**](https://github.com/ViktoriaFit/ai-telegram-bot) | Bot with Groq AI, memory, roles, statistics | — |
 | [**News Parser**](https://github.com/ViktoriaFit/news-parsers) | 5 RSS sources + AI summaries + Telegram delivery | — |
-| [**Email AI Sorter**](https://github.com/ViktoriaFit/email-ai-sorter) | Gmail IMAP + AI categorization + draft replies | — |
 
 ## 📫 How to reach me
 
